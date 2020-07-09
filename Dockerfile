@@ -1,6 +1,6 @@
 FROM docker:latest
 
-# MAINTAINER Henrique Schmidt <henrique.schmidt@4all.com>
+# MAINTAINER Henrique Schmidt <henrique.schmidt@somosphi.com>
 
 # run
 RUN apk update && \
